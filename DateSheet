@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<body>
+  
+  
+  
+    <center>
+        <h1><br>SGT University</br>Faculty of Engineering and Technology<br><u>Mid-Term Date Sheet</u></h1>
+      <table border="5" cellspacing="0" align="center">
+        <tr>
+           <td align="center" height="20" width="150">
+                    <b>Sr.No</b>
+          	</td>
+                 <td align="center" height="20"width="350">
+                    <b>Course Name</b>
+          	</td>
+          <td align="center" height="20"width="150">
+                    <b>Batch</b>
+          	</td>
+          <td align="center" height="20"width="150">
+                    <b>Sem</b>
+          	</td>
+          <td align="center" height="20"width="350">
+                    <b>Subject Code</b>
+          	</td>
+      <td align="center" height="20"width="400">
+                    <b>Subject Name</b>
+          	</td>
+          <td align="center" height="20"width="150">
+                    <b>Date</b>
+          	</td>
+        </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>1</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>B-Tech CSE</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020E</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020417</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>Basic Java Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>7-July-2022</b>
+          	</td>
+        
+        
+         </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>2
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>B-Tech CSE</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020E</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020416</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>Python Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>7-July-2022</b>
+          	</td>
+           </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>3</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>BCA</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020456</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>SNA lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>8-July-2022</b>
+          	</td>
+       </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>4</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>BCA</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020478</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>CN Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>8-July-2022</b>
+          	</td> </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>5</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>MCA</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020467</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>WDD Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>9-July-2022</b>
+          	</td>
+   </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>6</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>MCA</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020445</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>Basic Java Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>10-July-2022</b>
+          	</td>
+ </tr>
+        
+        
+       <td align="center" height="20"width="150">
+                    <b>7</b>
+          	</td>
+         <td align="center" height="20"width="150">
+                    <b>MCA</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>2020</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>4th</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>13020489</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>C++ Lab</b>
+          	</td>
+        <td align="center" height="20"width="150">
+                    <b>10-July-2022</b>
+          	</td>
+ </tr>
+        
+      
+ </body>
+</html>
